@@ -3,4 +3,4 @@ CTF writeup for The Slashroot 7.0 2023. I took part in this CTF competition with
 
 | Category | Challenge |
 | ---      | --- |
-| Osint    | [Nostalgia_child](/slashroot-7.0/nostalgia_child/)
+| Osint    | [Nostalgia_child](/slashroot-7.0 2023/nostalgia_child/)
