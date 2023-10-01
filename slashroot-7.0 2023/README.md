@@ -1,6 +1,6 @@
 # Slashroot 7.0 2023
 
-![preview](images/preview.png)
+![preview](preview.png)
 
 CTF writeup for The Slashroot 7.0 2023. I took part in this CTF competition with the xxx team and secured the xth place out of xxx teams
 
