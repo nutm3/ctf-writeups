@@ -1,40 +1,27 @@
 # Trailblazer
-> Immerse yourself in a web application born from the brilliance of AI. This digital realm is a playground of challenges, meticulously woven by machine intelligence. Your mission: outsmart the very AI that birthed this intricate virtual environment.
+> I'm currently remembering my childhood nostalgia. But I'm confused about which video on IG suits my childhood? can you help me ?
 
 ## About the Challenge
-We have been given a static website, and we need to find the flag on this website.
+We have been given a desciption about this chall, and we need to find the flag from the description.
 
-![preview](images/preview.png)
 
 ## How to Solve?
-First, i tried to check 
+We were given a description of the existing case, then web were asked to search based on the case. 
 
-![img1](images/img1.png)
+Based on the description of the video on the instagram account. I tried to find and account from probset, here's what it looks like.
+![img2](images/img2.png)
 
-lalu saya mencoba cek account lain dari probset pada followersnya, tapi tidak mendapatkan hasil.
+Then i tried to analize the comments from each existing video, and couldn't find even a clue. 
+![img3](images/img3.png)
 
-![img1](images/img1.png)
+I tried looking for his following and found an instagram account thas was similar to the question, namely `nostalg1a`
+![img4](images/img4.png)
 
-When I attempted to deobfuscate the JavaScript code, I realized that it was useless, and we couldn't find any additional information from it. So, I tried to locate another JavaScript file by changing the filename to main.js, and something weird happened
+Based on the probset information, the content is entitled `2010` and was uploaded on `1 August 2023`. Let's check ...
 
-![filenotfounderror](images/filenotfounderror.png)
-
-`FileNotFoundError`? I immediately got the idea to do a path traversal using this payload
-
-```sh
-curl "https://trailblazer.winja.org/assets/js/../../flag.txt" --path-as-is
-```
-
-![tried](images/tried.png)
-
-Hmm, let's check another important files such as the source code, `.env` file, etc. And we got the flag by reading `.env` file
-
-```
-curl "https://trailblazer.winja.org/assets/js/../../flag.txt" --path-as-is
-```
-
+And voila, we got the flag.
 ![flag](images/flag.png)
 
 ```
-flag{ab22012e6c8eeb6c1560fc9bec493220_p1N_ArE_no7_$Afe_@lwaYS}
+slashroot7{real_nostalgia}
 ```
