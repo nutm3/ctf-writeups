@@ -3,7 +3,8 @@
 
 ## About the Challenge
 We have been given a description and a file. Following are the contents of the attached file.
-```U_E}M28NWV5?28S~
+```
+U_E}M28NWV5?28S~
 ```
 
 ## How to solve?
