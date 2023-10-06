@@ -7,12 +7,15 @@ We have been given a desciption and a png file (You can download the file [here]
 
 ## How to Solve?
 Based on the information in the description, the flag is the name of a place. Let's try to look at the attached file.
+
 ![img1](images/img1.png)
 
 It looks from the picture like a meeting hall, but what is that? Hm, maybe google images can help us...
+
 ![img2](images/img2.png)
 
 And voila, we get the name of the place `LIBRARY OF CONGRESS` which means that's the flag.
+
 ![flag](images/flag.png)
 
 ```
