@@ -12,7 +12,7 @@ Based on the information in the description, the flag is the name of a place. Le
 It looks from the picture like a meeting hall, but what is that? Hm, maybe google images can help us...
 ![img2](images/img2.png)
 
-And voila, we get the name of the place `` which means that's the flag.
+And voila, we get the name of the place `LIBRARY OF CONGRESS` which means that's the flag.
 ![flag](images/flag.png)
 
 ```
