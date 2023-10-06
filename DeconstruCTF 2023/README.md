@@ -5,4 +5,4 @@ CTF writeup for The Deconstru CTF 2023. I took part in this CTF competition with
 
 | Category | Challenge |
 | ---      | --- |
-| Osint    | [Memento](https://github.com/fanshh/ctf-writeups/tree/main/DeconstruCTF%202023/move/)
+| Osint    | [MOVE](https://github.com/fanshh/ctf-writeups/tree/main/DeconstruCTF%202023/move/)
