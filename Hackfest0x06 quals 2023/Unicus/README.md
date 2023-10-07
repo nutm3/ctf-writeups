@@ -1,6 +1,6 @@
 #Hackfest0x06 quals 2023
 > Unicus means only, sole, single
-[src.py] [output.txt]
+`[src.py]` `[output.txt]`
 
 ## About the Challenge
 Based on the challenge description, there are no clues in it.

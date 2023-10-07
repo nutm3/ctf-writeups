@@ -5,14 +5,14 @@ CTF writeup for The Hackfest0x06 quals 2023. I took part in this CTF competition
 
 |   Category   | Challenge |
 |   ---        |    ---    |
-|  Web Exploit |  [Baby Template](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/Baby%Template/)
+|  Web Exploit |  [Baby Template](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/Baby%20Template/)
 |  Web Exploit |  [Bayi LeFi](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/Bayi%20LeFi/)
 |  Web Exploit |  [Baby Inspect](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/Baby%20Inspect/)
 |   Forensic   |  [UNIqueCODE](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/UNIqueCODE/)
 |   Forensic   |  [StegCap](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/StegCap/)
 |   Forensic   |  [Urgent File](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/Urgent%20File/)
 |     Pwn      |  [Int Meluap](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/Int%20Meluap/)
-|     Rev      |  [Undo It](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/Undo&20It/)
+|     Rev      |  [Undo It](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/Undo%20It/)
 | Cryptography |  [Unicus](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/Unicus/)
 | Cryptography |  [ezRSA](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/ezRSA/)
 |     Misc     |  [You Khow The Rules and So Do I](https://github.com/fanshh/ctf-writeups/tree/main/Hackfest0x06%20quals%202023/You%20Khow%20The%20Rules%20and%20So%20Do%20I/)

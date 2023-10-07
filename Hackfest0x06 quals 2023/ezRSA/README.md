@@ -1,5 +1,6 @@
 #Hackfest0x06 quals 2023
 > The title says it all:)
+`[ex.txt]`
 
 ## About the Challenge
 Based on the challenge description, there is a clue, namely in the challenge title.
@@ -9,7 +10,7 @@ Based on the challenge title, this challenge is related to RSA is an algorithm f
 
 ![img1](images/img1.png)
 
-Obtained an ex.txt file containing the values used in RSA ENC.
+Obtained an ez.txt file containing the values used in RSA ENC.
 ```
 n =
 46632702875526958047696034868305579532727232507855817320933528340780

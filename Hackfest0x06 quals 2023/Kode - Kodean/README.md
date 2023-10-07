@@ -1,7 +1,6 @@
 #Hackfest0x06 quals 2023
 > what is this code... it's better to just sleep...
-
-[code]
+`[code]`
 
 ## About the Challenge
 Given some encrypted code with unknown enc. We are asked

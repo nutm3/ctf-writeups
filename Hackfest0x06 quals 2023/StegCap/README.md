@@ -1,8 +1,9 @@
 #Hackfest0x06 quals 2023
-> My brother told me that he accidentally broke my favorite stuff, he didnt even know how it come.. can u help me to fix it please? :(
+> My brother told me that he accidentally broke my favorite stuff, he didnt even know how it come.. can u help me to fix it please? :( 
+`chall.pcap`
 
 ## About the Challenge
-Based on the challenge description, there is a broken stuff. And there is a file attached `chall.pcap`
+Based on the challenge description, there is a broken stuff.
 
 ## How to solve?
 We try to analyze it with Wireshark, we can immediately check the IP traffic section, but it will definitely take a long time...

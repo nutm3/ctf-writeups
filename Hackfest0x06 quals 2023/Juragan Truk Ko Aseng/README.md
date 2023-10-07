@@ -1,7 +1,6 @@
 #Hackfest0x06 quals 2023
 > Help me to calculate the total order.
-
-nc ccug.gunadarma.ac.id 15102
+`nc ccug.gunadarma.ac.id 15102`
 
 ## About the Challenge
 Based on the challenge description, we are only asked to calculate the total order of Koh Aseng.

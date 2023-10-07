@@ -1,9 +1,7 @@
 #Hackfest0x06 quals 2023
 > Mr Dadang wanted to buy food through an application, but he...
 found a security hole in the food ordering application.
-
-nc ccug.gunadarma.ac.id 35001
-`[chall]`
+`nc ccug.gunadarma.ac.id 35001` `[chall]`
 
 ## About the Challenge
 Based on the challenge description, there is a food sales service application. And there is also an attached file `[chall]`.

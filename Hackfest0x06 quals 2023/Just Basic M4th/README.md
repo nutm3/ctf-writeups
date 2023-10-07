@@ -2,8 +2,7 @@
 > Aldi is currently having PTS (Mid-Semester Testing) on campus. He is
 do math problems. He needs your help to finish
 about that. Help Aldi to solve this problem.
-
-nc ccug.gunadarma.ac.id 2024
+`nc ccug.gunadarma.ac.id 2024`
 
 ## About the Challenge
 Based on the challenge description, we are only asked to carry out calculations on the questions that will be given regarding the arithmetic operations of addition, subtraction and multiplication. Here we are asked to
