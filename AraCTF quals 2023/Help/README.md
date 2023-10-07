@@ -26,10 +26,10 @@ Because there are so many codes that have to be written in this attachment, here
 
 ```
 141011011 = S
-0111110 = U
-1100111 = P
-1001111 = E
-1000110 = R
+0111110   = U
+1100111   = P
+1001111   = E
+1000110   = R
 ```
 
 And voila we get the flag.
