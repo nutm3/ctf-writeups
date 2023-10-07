@@ -2,6 +2,7 @@
 
 CTF writeup for The Hackfest0x06 quals 2023. I took part in this CTF competition and secured the 3th place out of xxx participant
 
+![preview](images/preview.png)
 
 |   Category   | Challenge |
 |   ---        |    ---    |
