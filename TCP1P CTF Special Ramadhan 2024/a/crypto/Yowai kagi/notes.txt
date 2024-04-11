@@ -1,0 +1,8 @@
+Desc:
+Terinspirasi dari Compfest 15 Hackerclass ;)
+[chall.py] [output.txt]
+
+Alur:
+...
+
+Flag : TCP1P{th4tS_k3y_1s_t00_We4K}

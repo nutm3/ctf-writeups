@@ -1,0 +1,9 @@
+Desc:
+Buffer overflow di stack bisa kita gunakan untuk overwrite saved RIP. Kita bisa overwrite dengan alamat fungsi win untuk menjalankannya.
+Connect: nc 103.185.44.122 19000
+
+
+Alur :
+...
+
+Flag : TCP1P{bisa_jalanin_fungsi_apapun_kan_jadinya_bang}

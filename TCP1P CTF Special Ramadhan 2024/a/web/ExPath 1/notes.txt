@@ -1,0 +1,10 @@
+Desc:
+This challenge require you to exploit simple XPath Injection and retrieve flag inside of an XML Document.
+Connect: http://103.185.44.122:33121
+
+Alur :
+...
+
+Flag : TCP1P{aku_bisa_simple_xpath_injection_yey!}
+
+

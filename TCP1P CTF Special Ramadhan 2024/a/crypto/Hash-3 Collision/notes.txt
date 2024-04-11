@@ -1,0 +1,12 @@
+Desc:
+Aku baru saja membuat sebuah aplikasi yang akan memberikan flag pada user selama user itu telah terdaftar dalam sistem. Di sini aku berikan saja database username dan password mereka hehe. Selama sudah di-hash, password mereka akan aman... kan?
+Connect ke nc 103.185.44.122 21001
+[server.py]
+
+Alur :
+...
+
+Flag :
+
+
+
