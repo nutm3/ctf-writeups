@@ -1,9 +1,0 @@
-Desc: 
-In this intriguing task, you'll encounter a mysterious program that claims to predict the future based on your name. However, beneath the mystical façade lies a hidden vulnerability. Can you uncover and exploit the bug within the binary?
-nc 103.185.44.122 25204
-
-Alur :
-...
-
-Flag : TCP1P{Wr0n6_pr0ph3cyyy_BRDY15113832}
-

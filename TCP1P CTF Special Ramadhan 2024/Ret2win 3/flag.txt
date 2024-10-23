@@ -1,1 +1,0 @@
-flag{wrong_flag}

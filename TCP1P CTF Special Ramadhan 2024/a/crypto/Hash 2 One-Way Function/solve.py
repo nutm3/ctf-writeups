@@ -1,9 +1,8 @@
 import random
 
 flags = open("flags.txt", "r").read().splitlines()
-hash_output = "32333934"  # Hasil output print
+hash_output = "32333934"  # hasil out
 
-# Import modul random
 def my_hash(string):
     sum = 0
     for char in string:
@@ -11,8 +10,7 @@ def my_hash(string):
     sum = sum % (2 ** 24)
     return str(sum).encode().hex()
 
-# Loop melalui setiap string dalam flags.txt dan periksa hash-nya
 for flag in flags:
     if my_hash(flag) == hash_output:
-        print("String yang sesuai:", flag)
+        print(f'Flag :  {flag}')
         break

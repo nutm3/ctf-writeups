@@ -8,4 +8,4 @@ key_2 = key_1 ^ key_xor
 plain = cipher ^ key_2
 b = long_to_bytes(plain)
 c=b.decode()
-print(c)
+print(f'Flag : {c}')
