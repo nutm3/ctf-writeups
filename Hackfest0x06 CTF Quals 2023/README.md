@@ -2,7 +2,7 @@
 
 CTF writeup for The Hackfest0x06 CTF Quals 2023. I took part in this CTF competition and secured the 3th place out of xxx participant
 
-![preview](images/preview.png)
+![preview](preview.png)
 
 |   Category   |           Challenge         |
 |     ---      |              ---            |

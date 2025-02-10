@@ -2,7 +2,7 @@
 
 CTF writeup for The Srdlen CTF 2025. We took part in this CTF competition with the x team and secured the xth place out of xxx teams
 
-![preview](images/preview.png)
+![preview](preview.png)
 
 |   Category   |           Challenge         |
 |     ---      |              ---            |

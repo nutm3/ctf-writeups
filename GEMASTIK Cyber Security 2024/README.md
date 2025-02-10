@@ -2,7 +2,7 @@
 
 CTF writeup for The GEMASTIK Cyber Security 2024. We took part in this CTF competition with the GWS (Afal Idola Gen Z) team and secured the xth place out of xxx teams
 
-![preview](images/preview.png)
+![preview](preview.png)
 
 |   Category   |           Challenge         |
 |     ---      |              ---            |

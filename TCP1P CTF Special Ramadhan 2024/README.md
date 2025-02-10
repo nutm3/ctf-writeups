@@ -1,7 +1,7 @@
 # TCP1P CTF Special Ramadhan 2024
 CTF writeup for The TCP1P CTF Special Ramadhan 2024. I participated to this competition as nutm3 .I managed to secure the 2nd place among many participating teams
 
-![preview](images/preview.png)
+![preview](preview.png)
 
 |   Category   |           Challenge         |
 |     ---      |              ---            |
