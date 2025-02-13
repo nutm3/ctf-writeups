@@ -22,4 +22,5 @@ def bruteforce_hash(hash_output):
 hash_output = "32323931"  # Admin hash
 
 matched_word = bruteforce_hash(hash_output)
-print("Password real:", matched_word)
+print("Password real:", matched_word)#youwillneverwalkalone
+#TCP1P{1_r34lly_h0p3_th4t_y0u_c0ns1der_ab0u7_c0ll1sion5_wh3n_m4k1ng_h4sh_func7i0n5}
